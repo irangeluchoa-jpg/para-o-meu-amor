@@ -1,0 +1,27 @@
+════════════════════════════════════════════════════
+  COMO ADICIONAR AS MÚSICAS
+════════════════════════════════════════════════════
+
+1. Baixe os mp3 das músicas
+2. Coloque os arquivos nesta pasta: public/audio/
+3. Use EXATAMENTE os nomes abaixo
+
+NOME DO ARQUIVO                        MÚSICA
+─────────────────────────────────────  ──────────────────────────────────────
+01-ceu-azul.mp3                        Céu Azul – Charlie Brown Jr.
+02-como-eu-te-quero.mp3                Como Eu Te Quero – Black Alien
+03-como-tudo-deve-ser.mp3              Como Tudo Deve Ser – Charlie Brown Jr.
+04-pitty.mp3                           P.I.T.T.Y. – NandaTsunami
+05-pontos-de-aura.mp3                  Pontos de Aura – NandaTsunami
+06-pq-vc-nao-me-liga.mp3               Pq Vc Não Me Liga? – NandaTsunami
+07-extraordinaria.mp3                  Extraordinária – Ebony
+08-pensamentos-intrusivos.mp3          Pensamentos Intrusivos – Ebony
+09-festa-do-pijama.mp3                 Festa do Pijama – Ebony feat. Urias
+10-set-ajc2.mp3                        Set AJC2 – Ajuliacosta
+11-brutas-tambem-choram.mp3            Brutas Também Choram – Ajuliacosta
+12-ate-sob-a-luz-do-seu-olhar.mp3      Até Sob a Luz do Seu Olhar – Ajuliacosta
+
+As fotos já estão no lugar certo em public/photos/
+Não precisa mexer nelas.
+════════════════════════════════════════════════════
+13-faco-acontecer.mp3                  Faço Acontecer – NandaTsunami
